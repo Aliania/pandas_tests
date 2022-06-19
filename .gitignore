@@ -2,6 +2,7 @@
 .Rproj
 .Rproj.user
 *Solutions.ipynb
-Exercises*with*
+Exercises_with_*.ipynb
+Exercise_with_Solution.ipynb
 *.csv
 *.md
